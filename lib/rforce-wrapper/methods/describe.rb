@@ -5,7 +5,7 @@ module RForce
         def describeDataCategoryGroups(*sObjectTypes)
         end
 
-        def describeDataCategoryGroupStructures(*dataCategoryGroupSObjectTypePairs, topCategoriesOnly)
+        def describeDataCategoryGroupStructures(*dataCategoryGroupSObjectTypePairs)
         end
 
         def describeGlobal

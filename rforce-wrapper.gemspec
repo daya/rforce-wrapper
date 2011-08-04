@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = "rforce-wrapper"
   s.version     = RForce::Wrapper::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Brandon Tilley"]
-  s.email       = ["brandon@brandontilley.com"]
+  s.authors     = ["Brandon Tilley", "Daya Sharma"]
+  s.email       = ["brandon@brandontilley.com, daya.sharma@gmail.com"]
   s.homepage    = "https://github.com/BinaryMuse/rforce-wrapper"
   s.summary     = "RForce-wrapper creates a wrapper around rforce to make it easier to use."
   s.description = s.summary

@@ -5,3 +5,5 @@ pkg/*
 .rvmrc
 .yardoc/*
 doc/*
+.idea
+.idea/*
